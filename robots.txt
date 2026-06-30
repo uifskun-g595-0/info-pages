@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uifskun-g595-0.github.io/info-pages/sitemap.xml
